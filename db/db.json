@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "5814",
+      "email": "james@test.com",
+      "name": "James",
+      "password": "james@123"
+    },
+    {
+      "id": "096f",
+      "email": "bora@123",
+      "password": "bora2",
+      "name": "Bora"
+    },
+    {
+      "id": "9026",
+      "email": "Bruce@test",
+      "password": "bRUCE@123",
+      "name": "Bruce"
+    },
+    {
+      "id": "0f55",
+      "email": "boraalpsesli@hotmail.com",
+      "password": "14021402",
+      "name": "Bora Alp Sesli"
+    },
+    {
+      "id": "ecf4",
+      "email": "boraalpsesli@gmail.com",
+      "password": "152152",
+      "name": "bora"
+    },
+    {
+      "id": "9bbf",
+      "email": "bora@test.com",
+      "password": "borabora",
+      "name": "alp"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "Burger King",
+      "contact": "11111",
+      "address": "Sector 50"
+    },
+    {
+      "id": "2",
+      "name": "Pizza Hut",
+      "contact": "22222",
+      "address": "Sector 35"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "address": "Sector 20",
+      "contact": "33333",
+      "id": "3"
+    },
+    {
+      "name": "Subway",
+      "address": "Sector 32.5",
+      "contact": "44444",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "McDonald's",
+      "contact": "55555",
+      "address": "Sector 63"
+    },
+    {
+      "id": "6",
+      "name": "Domino's Pizza",
+      "contact": "66666",
+      "address": "Sector 29"
+    },
+    {
+      "id": "7",
+      "name": "KFC",
+      "contact": "77777",
+      "address": "Sector 15"
+    },
+    {
+      "id": "8",
+      "name": "Chipotle Mexican Grill",
+      "contact": "88888",
+      "address": "Sector 9"
+    }
+  ]
+}
